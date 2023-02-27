@@ -1,0 +1,17 @@
+.notFond{
+    width: 100%;
+    height: calc(100h-60px);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.notFond h1{
+    font-size: 120px;
+}
+.notFond a{
+    text-decoration: none;
+    background-color: #116feb;
+    color: #fff;
+    margin-top: 14px;
+}
